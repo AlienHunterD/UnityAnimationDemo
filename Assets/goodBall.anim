@@ -5,7 +5,7 @@ AnimationClip:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: simpleBall
+  m_Name: goodBall
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -26,8 +26,8 @@ AnimationClip:
       - serializedVersion: 2
         time: 0.5
         value: {x: 0, y: 0.5, z: 0}
-        inSlope: {x: 0, y: 0, z: 0}
-        outSlope: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: -11.617885, z: 0}
+        outSlope: {x: 0, y: 13.308671, z: 0}
         tangentMode: 0
       - serializedVersion: 2
         time: 1
@@ -92,7 +92,7 @@ AnimationClip:
         value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 136
       - serializedVersion: 2
         time: 1
         value: 0
@@ -118,9 +118,9 @@ AnimationClip:
       - serializedVersion: 2
         time: 0.5
         value: 0.5
-        inSlope: 0
-        outSlope: 0
-        tangentMode: 0
+        inSlope: -11.617885
+        outSlope: 13.308671
+        tangentMode: 1
       - serializedVersion: 2
         time: 1
         value: 4
@@ -148,7 +148,7 @@ AnimationClip:
         value: 0
         inSlope: 0
         outSlope: 0
-        tangentMode: 0
+        tangentMode: 136
       - serializedVersion: 2
         time: 1
         value: 0
